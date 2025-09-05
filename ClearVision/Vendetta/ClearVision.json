@@ -516,7 +516,7 @@
 	"PLUM_22": "#0f1428"
     },
     "background": {
-        "url": "https://raw.githubusercontent.com/Homeperson12th/ThemesCorrected12th/refs/heads/main/ClearVision/Vendetta/Screenshot%20(30).png",
+        "url": "https://raw.githubusercontent.com/Homeperson12th/ThemesCorrected12th/refs/heads/main/ClearVision/Vendetta/GMFp4p-XwAAgkXP-1261145020.jpg",
 	"alpha": 1
     },
     "plus": {
@@ -533,4 +533,16 @@
         "iconpack":"rosiecord-plumpy"
     },
     "spec": 2
-            }
+        }
+  "alpha": 1,
+  "blur": 12
+},
+"colors": {
+  "text": "#f5f5f5",
+  "text-muted": "#d3d3d3",
+  "header-primary": "#ffffff",
+  "header-secondary": "#e8e8e8",
+  "background-primary": "#000000cc",
+  "background-secondary": "#000000b3",
+  "background-tertiary": "#00000080"
+}
